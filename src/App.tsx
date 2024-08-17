@@ -15,7 +15,7 @@ const LoginForm: React.FC = () => {
 
   return (
     <div className="login-container">
-      <div className="ok">Login</div>
+      <div className="ok">Login bijju</div>
       <form onSubmit={handleSubmit} className="login-form">
         <div className="form-group">
           <label htmlFor="email">Email:</label>
